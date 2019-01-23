@@ -10,3 +10,9 @@ This continues until all pairs have been found.
 After the game is finished, the game will show a popup window that displays the score and a message like "New High Score".
 Otherwise, you can play it again.
 
+## Demo
+
+<img src="Images/1.PNG" >
+<img src="Images/2.PNG" >
+<img src="Images/3.PNG" >
+<img src="Images/4.PNG" >
